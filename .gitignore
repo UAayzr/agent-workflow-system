@@ -37,4 +37,4 @@ docker-compose.override.yml
 Thumbs.db
 
 # Trae
-.trae
+.trae/
