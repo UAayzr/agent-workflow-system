@@ -1,0 +1,33 @@
+# Core LLM Frameworks
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-anthropic>=0.1.0
+langgraph>=0.1.0
+
+# FastAPI
+fastapi>=0.100.0
+uvicorn>=0.20.0
+pydantic>=2.0.0
+
+# Vector Databases
+faiss-cpu>=1.8.0
+chromadb>=0.4.0
+
+# Redis
+redis>=5.0.0
+
+# Web Search
+google-search-results>=2.4.0
+
+# Document Loading
+python-dotenv>=1.0.0
+pymupdf>=1.24.0
+python-multipart>=0.0.6
+
+# Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+
+# Utilities
+tenacity>=8.0.0
+requests>=2.31.0
